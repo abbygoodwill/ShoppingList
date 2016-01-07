@@ -1,0 +1,41 @@
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+h1 {
+	font-size: 42px;
+	margin: 5px 0px;
+}
+input, button {
+	font-size: 16px;
+	border-radius: 5px;
+}
+li {
+	border: 1px solid#000;
+	border-radius: 10px;
+	margin: 10px 0px;
+	padding: 8px;
+	list-style: none;
+}
+.done {
+	text-decoration: line-through;
+	color: #999;
+	height: 20px;
+}
+.item {
+	font-size: 10px;
+	text-transform: uppercase;
+	background-color: blue;
+	border: 1px solid blue;
+	border-radius: 3px;
+	text-decoration: none;
+	padding: 3px;
+	margin-right: 5px;
+	font-weight: bolder;
+	text-decoration: none;
+}
